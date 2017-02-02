@@ -1,0 +1,3 @@
+echo "lvreate --size dimensione_dello_snapshot --snapshot --name nome_dello_snapshot percorso_del_volume_logico_di_cui_creare_lo_snapshot" 
+echo "es."
+echo "lvcreate --size 100M --snapshot --name snap /dev/vg00/lvol1"
