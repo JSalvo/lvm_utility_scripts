@@ -1,0 +1,3 @@
+./show_physical_volume.exe
+./show_volume_group.exe
+./show_logical_volumes.exe
