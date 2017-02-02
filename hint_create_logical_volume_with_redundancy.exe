@@ -1,0 +1,5 @@
+echo "lvcreate -L dimensione -m1 -n nome_del_volume nome_del_gruppo"
+echo "es. volume logico con una ridondanza"
+echo "lvcreate -L 50G -m1 -n gfslv vg01"
+echo "es. volume logico con due ridondanze"
+echo "lvcreate -L 50G -m2 -n gfslv vg01"

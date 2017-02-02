@@ -1,0 +1,3 @@
+echo "lvcreate -L dimensione -n nome_del_volume nome_del_gruppo"
+echo "es."
+echo "lvcreate -L 50G -n gfslv vg01"
