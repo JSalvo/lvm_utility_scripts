@@ -1,0 +1,3 @@
+echo "lvremove posizione_del_volume_logico_da_rimuovere"
+echo "es."
+echo "lvremove /dev/vg01/disk1"
